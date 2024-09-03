@@ -63,7 +63,7 @@ Uses computer vision and machine learning to translate sign language into text a
 - Audio to ISL App offers bidirectional translation but lacks automation and has limited recommendations.
 - Ava and SignAll provide text-based and sign language translation but face accessibility and cost issues.
 
-# Probelm overcame 
+# Probelm overcome 
 
 By integrating these features, your app aims to provide a comprehensive solution that addresses the needs of both ISL users and those who communicate in spoken languages, ensuring improved accessibility, communication, and inclusivity.
 
